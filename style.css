@@ -27,8 +27,12 @@ main {
 	margin-bottom: 40px;
 }
 
+#items {
+	width: 100%;
+	max-width: 250px;
+}
+
 .item {
-	display: inline-block;
 	width: 100%;
 	border: 5px solid rgba(193, 32, 64, .3);
 	padding: 10px 15px;
